@@ -1,0 +1,6 @@
+D:\PTPMUD\ProjectCuoiKi\DTO\bin\Debug\DTO.dll
+D:\PTPMUD\ProjectCuoiKi\DTO\bin\Debug\DTO.pdb
+D:\PTPMUD\ProjectCuoiKi\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\PTPMUD\ProjectCuoiKi\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\PTPMUD\ProjectCuoiKi\DTO\obj\Debug\DTO.dll
+D:\PTPMUD\ProjectCuoiKi\DTO\obj\Debug\DTO.pdb

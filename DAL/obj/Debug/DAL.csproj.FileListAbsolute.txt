@@ -1,0 +1,9 @@
+D:\PTPMUD\ProjectCuoiKi\DAL\bin\Debug\DAL.dll
+D:\PTPMUD\ProjectCuoiKi\DAL\bin\Debug\DAL.pdb
+D:\PTPMUD\ProjectCuoiKi\DAL\bin\Debug\DTO.dll
+D:\PTPMUD\ProjectCuoiKi\DAL\bin\Debug\DTO.pdb
+D:\PTPMUD\ProjectCuoiKi\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\PTPMUD\ProjectCuoiKi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\PTPMUD\ProjectCuoiKi\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\PTPMUD\ProjectCuoiKi\DAL\obj\Debug\DAL.dll
+D:\PTPMUD\ProjectCuoiKi\DAL\obj\Debug\DAL.pdb

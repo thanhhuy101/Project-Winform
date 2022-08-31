@@ -1,0 +1,11 @@
+D:\PTPMUD\ProjectCuoiKi\BLL\bin\Debug\BLL.dll
+D:\PTPMUD\ProjectCuoiKi\BLL\bin\Debug\BLL.pdb
+D:\PTPMUD\ProjectCuoiKi\BLL\bin\Debug\DAL.dll
+D:\PTPMUD\ProjectCuoiKi\BLL\bin\Debug\DTO.dll
+D:\PTPMUD\ProjectCuoiKi\BLL\bin\Debug\DAL.pdb
+D:\PTPMUD\ProjectCuoiKi\BLL\bin\Debug\DTO.pdb
+D:\PTPMUD\ProjectCuoiKi\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\PTPMUD\ProjectCuoiKi\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\PTPMUD\ProjectCuoiKi\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\PTPMUD\ProjectCuoiKi\BLL\obj\Debug\BLL.dll
+D:\PTPMUD\ProjectCuoiKi\BLL\obj\Debug\BLL.pdb
